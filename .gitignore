@@ -1,0 +1,25 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+.venv_ironhack/
+
+# Checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Modelos entrenados
+models/
+*.pkl
+*.joblib
+
+# Cache de Python
+__pycache__/
+*.py[cod]
